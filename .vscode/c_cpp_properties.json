@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "./SDK/Platform/Core/*",
+                "./SDK/Platform/Devices/*",
+                "./Solution/Motorcontrol/App/*",
+                "./Solution/Motorcontrol/Modules/*",
+                "./SDK/StdDriver/Inc/*",
+                "./SDK/StdDriver/Src/*",
+                "./Solution/Z20A8300A/confg/*",
+                "./Solution/Z20A8300A/inc/",
+                "./Solution/Z20A8300A/src/"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\minGW64\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

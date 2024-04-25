@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\IARProject\\Z20K11XM_OneshuntFoc.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\IARProject\\Z20K11XM_OneshuntFoc.eww": {
+      "configs": {
+        "${workspaceFolder}\\IARProject\\Z20K11XM_OneshuntFoc.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\IARProject\\Z20K11XM_OneshuntFoc.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "D:\\Program Files\\IAR Systems\\Embedded Workbench 9.1"
+  }
+}
